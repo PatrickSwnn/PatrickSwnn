@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Swan</h1>
 <h3 align="center">A detail oriented and product-centric iOS Developer</h3>
 
-- 🔭 I’m currently working on [Events.au](https://github.com/AustinXu-Dev/Events.au)
+- 🔭 I’m currently working on [Assemble](https://github.com/HtetAungShine6/Assemble)
 
 - 📫 How to reach me **swannayphueaung0182@gmail.com**
 
