@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Swan</h1>
 <h3 align="center">A detail oriented and product-centric iOS Developer</h3>
 
-- 🔭 I’m currently working on [Assemble](https://github.com/HtetAungShine6/Assemble)
+- 🔭 I’m currently working on [Assemble](https://assemble-th.com/home)
 
 - 📫 How to reach me **swannayphueaung0182@gmail.com**
 
