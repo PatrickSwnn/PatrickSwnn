@@ -6,7 +6,6 @@
 - 🔭 Building backend systems and APIs that scale
 - 🏗️ I care about how systems are designed before how they're built
 - 🧩 Architecture and design decisions keep me up at night
-- 📫 swannayphueaung0182@gmail.com · [LinkedIn](https://linkedin.com/in/swan-nay-phue-aung)
 
 <br/>
 
